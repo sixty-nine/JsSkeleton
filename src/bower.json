@@ -1,0 +1,26 @@
+{
+    "name": "",
+    "version": "0.0.0",
+    "homepage": "",
+    "authors": [
+        "SixtyNine <sixtynine.db@gmail.com>"
+    ],
+    "description": "",
+    "moduleType": [
+        "amd"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "1.11.0",
+        "underscore": "1.6.0",
+        "requirejs": "2.1.14",
+        "requirejs-text": "2.0.12"
+    }
+}
